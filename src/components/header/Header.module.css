@@ -1,0 +1,40 @@
+header {
+    background-color: #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  }
+  
+  img {
+    height: 30px;
+    width: 180px;
+  }
+  
+  h1 {
+    font-size: 1.5em;
+    margin: 0 10px;
+  }
+  
+  form {
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    margin-left: 5px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }
+  
